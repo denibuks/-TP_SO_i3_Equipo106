@@ -45,3 +45,38 @@ Adaptador de Ethernet Conexi√≥n de red Bluetooth 3:
    Sufijo DNS espec√≠fico para la conexi√≥n. . :
 
 11:35AM
+irina bruzzone
+12:00
+info ifconfig:
+
+Configuraci¢n IP de Windows
+
+
+Adaptador desconocido ProtonVPN TUN:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2802:8010:2605:a101:275f:a1a5:8401:d1cf
+   Direcci¢n IPv6 temporal. . . . . . : 2802:8010:2605:a101:2416:8bb8:2b54:5fad
+   V°nculo: direcci¢n IPv6 local. . . : fe80::79e1:bb08:7c1b:32a5%15
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.46
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2eea:dcff:fe77:6680%15
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   V°nculo: direcci¢n IPv6 local. . . : fe80::65da:a87d:a3d5:336%3
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador desconocido Conexi¢n de †rea local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec°fico para la conexi¢n. . : 
