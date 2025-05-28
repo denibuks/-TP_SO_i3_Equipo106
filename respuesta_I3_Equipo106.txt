@@ -1,0 +1,3 @@
+a) Quedo con todos los archivos solicitados y todos los pueden ver.
+b) Si, pude ver.
+c) git checkout master, git pull origin master, git merge bukholdin, git add, git commit, git push.
