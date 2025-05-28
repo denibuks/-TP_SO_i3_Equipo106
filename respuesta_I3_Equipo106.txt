@@ -5,3 +5,4 @@ c) git checkout master, git pull origin master, git merge bukholdin, git add, gi
 d- Si, queda con los datos que fueron ingresados ahi
 e- Muchos (denis)
 f- git clone | echo " " >> beta.txt | ipconfig >> beta.txt | git add, git commit -m "", git push
+g- git clone \ git checkout bukholdin \ echo "" >> beta.txt \ ipconfig >> beta.txt \ gitadd, git commit -m "" \ git push
