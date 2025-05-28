@@ -80,3 +80,28 @@ Adaptador desconocido Conexi¢n de  rea local:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+
+
+Agustin Blanco
+Hora: 12:12
+Informacion de ifconfig:
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::b46:cb8:b9f2:599b%6
+   IPv4 Address. . . . . . . . . . . : 192.168.0.13
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::5525:1a02:7028:34b9%4
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
